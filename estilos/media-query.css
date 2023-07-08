@@ -29,6 +29,11 @@ TV:
         float: right;
         width: 70%;
     }
+
+    div#formulario > p {
+        font-size: 1.2em;
+        margin: 20px;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -58,5 +63,6 @@ TV:
 
     div#formulario > p {
         font-size: 1.2em;
+        margin: 20px;
     }
 }
